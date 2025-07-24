@@ -35,7 +35,7 @@ Designed for cybersecurity analysts, incident responders, and network administra
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/xids.git
+   git clone https://github.com/elshikha/xids.git
    cd xids
 2. **Set Up Environment**
 
