@@ -37,8 +37,6 @@ Designed for cybersecurity analysts, incident responders, and network administra
    ```bash
    git clone https://github.com/yourusername/xids.git
    cd xids
-````
-
 2. **Set Up Environment**
 
    ```bash
