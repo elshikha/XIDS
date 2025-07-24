@@ -198,5 +198,3 @@ Released under the MIT License. See [LICENSE](LICENSE) for details.
 ---
 
 *Packets don’t lie — but attackers try.*
-
-```
