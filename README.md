@@ -70,7 +70,7 @@ Designed for cybersecurity analysts, incident responders, and network administra
 ### Analyze a PCAP File
 
 ```bash
-python xids.py -f uploads/portscan.pcap -o report.html --filter "GET"
+python xids.py -f example.pcap -o report.html --filter "GET"
 ```
 
 * `-f`: Path to the PCAP file
